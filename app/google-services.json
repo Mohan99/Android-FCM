@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "665062749609",
+    "firebase_url": "https://ophwcgcm.firebaseio.com",
+    "project_id": "ophwcgcm",
+    "storage_bucket": "ophwcgcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665062749609:android:86a3dcc58d2bf09c",
+        "android_client_info": {
+          "package_name": "com.javasampleapproach.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665062749609-u9po2ufpp4i1o3qfdbeq7n8u8ke1d6iq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3x0Hf1uarlVzFkn_W73Zwy0mYn2fNfoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
